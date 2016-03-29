@@ -1,0 +1,17 @@
+
+Using the diff helps me easier to find the bugs.
+Using diff makes me focus only on the differences.
+
+Acessing to the whole history allows me to correct the bugs from the beginning.
+Let me know in which time step we made a mistake.
+
+Manual Save vs. Auto Save
+Pros:
+- Decide when to commit
+- Save space (to save small, unnecessary commits)
+Cons:
+- Cannot get the best version before something happens 
+
+Git and other VCSs allow you to save multiple files in one commit,
+others like Google Docs, treat each file separately. Why?
+- If files are related, saving multiple files in one commit is better.
